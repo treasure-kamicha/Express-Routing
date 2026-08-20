@@ -25,3 +25,5 @@ Permission is hereby granted, free of charge, to any person obtaining a copy of 
 
 ## SCREENSHOT
 
+Screenshot 2026-08-20 124614.png
+
